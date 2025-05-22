@@ -17,7 +17,9 @@
 
 ## 자세한 정보 확인
 Haneul Gyeol Project Notion : [Notion]
+
 Information about Cloud : [Blog]
 
 [Notion]: https://haneulgyeol.notion.site/1f05f5f657c580049a0cd5581ee9c0b7?v=1f05f5f657c580eeb434000c4db4ec1e&pvs=4
+
 [Blog]: https://blog.naver.com/kevin6303
