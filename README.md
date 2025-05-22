@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# ☁️ Haneul Gyeol Project (HG-Project) ☁️
+> 부경대학교 지구환경시스템과학부 환경대기과학전공 24학번 이진우
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
+<br>
 
-## Available Scripts
+## 프로젝트 소개
+- 대학원 연구실을 가기 위해 구름에 대해서 공부하던 도중, **『국제 구름 사전』 (WMO, International Cloud Altas)** 에서 한글화가 너무 잘 안되어있음을 깨달았다.
+- 한국 사람들도 구름에 관심이 있는 사람들이 많을텐데, 구름을 **"한글로"** 설명해주는 사이트가 있으면 얼마나 좋을까? 라는 생각으로 시작하게 되었다.
+- 나무위키, 위키백과는 구름에 대해서 잘 설명이 없는가?
+  -> 그렇다. 그리고 정확한 정보를 바탕으로 제작된것이 아니기 때문에, 맞는 부분도 있지만 틀린부분도 없지않아 생길수 있다.
+  
+- 구름이 생성되는 원리, 유형, 종, 변종, 부속구름에 대해서 **『국제 구름 사전』** 을 바탕으로 정보를 제공할 예정이다.
 
-In the project directory, you can run:
+<br>
+<br>
 
-### `npm start`
+## 자세한 정보 확인
+Haneul Gyeol Project Notion : [Notion]
+Information about Cloud : [Blog]
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Notion]: https://haneulgyeol.notion.site/1f05f5f657c580049a0cd5581ee9c0b7?v=1f05f5f657c580eeb434000c4db4ec1e&pvs=4
+[Blog]: https://blog.naver.com/kevin6303
