@@ -1,5 +1,7 @@
 # ☁️ Haneul Gyeol Project (HG-Project) ☁️
 > 부경대학교 지구환경시스템과학부 환경대기과학전공 24학번 이진우
+> 
+<p align="center"> <img src="https://github.com/user-attachments/assets/34b5bb06-2b6f-47d6-9a62-e67e5f89f6f2" width="500" height="500"> </p>
 
 <br>
 <br>
